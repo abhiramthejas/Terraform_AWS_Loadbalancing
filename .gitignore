@@ -1,7 +1,0 @@
-local_key
-local_key.pub
-provider.tf
-terraform.tfstate
-terraform.tfstate.backup
-.terraform
-.terraform.lock.hcl
